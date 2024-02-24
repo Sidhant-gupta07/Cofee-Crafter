@@ -22,11 +22,12 @@
  <div>
   <h6> Key Skills Utilized:</h6>
   <ul>
-   <li>Proficiency in HTML5 for structuring the web page elements.</li>
-   <li>Expertise in CSS3 for styling and enhancing the visual presentation of the game interface.</li>
-   <li>Advanced knowledge of JavaScript for implementing the game logic, including user input handling, computer choice generation, and result determination.</li>
-   <li>Problem-solving abilities to ensure smooth gameplay functionality and user experience.</li>
-   <li>Attention to detail to create an aesthetically pleasing and responsive design.</li>
+   <li>Proficiency in HTML5 for structuring the website layout and content.</li>
+   <li>Expertise in CSS3 for styling and enhancing the visual aesthetics of the website.</li>
+   <li>Knowledge of Bootstrap 5 for creating a responsive and mobile-friendly design.</li>
+   <li>User experience (UX) design principles to ensure intuitive navigation and interaction.</li>
+   <li>Front-end development skills to implement dynamic features such as navigation between sections and order processing.</li>
+   <li>Attention to detail to maintain consistency in design and functionality across the website.</li>
   </ul>
  </div>
  
