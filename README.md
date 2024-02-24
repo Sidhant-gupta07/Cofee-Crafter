@@ -1,4 +1,4 @@
-<h2>Gesture Wars</h2>
+<h2>Coffee Crafter</h2>
 
 ![game screenshot ]![Screenshot 2024-02-25 000831](https://github.com/Sidhant-gupta07/Cofee-Crafter/assets/133968577/fcf2dadd-407f-41b8-9174-eae9181f9f61)
 
@@ -7,7 +7,7 @@
    <h6> How to use:</h6>
    <ul>
      <li>Clone the repository to your desktop
-     git clone (https://github.com/Sidhant-gupta07/Rock-Paper-Scissors.git)
+     git clone (https://github.com/Sidhant-gupta07/Coffee-Crafter.git)
      </li>
      <li>Open the project directory</li>
      <li>Launch the `index.html` file in the web browser </li>
