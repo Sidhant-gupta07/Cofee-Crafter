@@ -1,6 +1,6 @@
 <h2>Coffee Crafter</h2>
 
-![game screenshot ]![Screenshot 2024-02-25 000831](https://github.com/Sidhant-gupta07/Cofee-Crafter/assets/133968577/fcf2dadd-407f-41b8-9174-eae9181f9f61)
+![screenshot ]![Screenshot 2024-02-25 000831](https://github.com/Sidhant-gupta07/Cofee-Crafter/assets/133968577/fcf2dadd-407f-41b8-9174-eae9181f9f61)
 
 
  <div>
